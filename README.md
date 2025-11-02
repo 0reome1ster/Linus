@@ -1,6 +1,6 @@
 # Linus
 
-This respository serves as supplementary resources to follow along my blog posts about writing Linux rootkits.
+This respository serves as supplementary resources to follow along my [blog posts]() about developing Linux rootkits.
 
 > [!WARNING]
 > **Disclaimer:** This is intended for **educational** and **research** purposes only. Using this for any malicious activity is strictly prohibited. I (the author) am not responsible for any misuse, damage, or harm caused by this respository and its code.
